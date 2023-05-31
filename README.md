@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jvallscu
 - 👀 I’m interested in Augmented Reality 
 - 🌱 I’m currently learning CS50x
-- 💞️ I’m looking to collaborate on Augmented Reality projects to start a company
 - 📫 How to reach me joanvalls47@gmail.com
 
 <!---
